@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.commonjava.googlecode.markdown4j:markdown4j:2.2-cj-1.1-touch">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/commonjava/googlecode/markdown4j/markdown4j/2.2-cj-1.1-touch/markdown4j-2.2-cj-1.1-touch.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/commonjava/googlecode/markdown4j/markdown4j/2.2-cj-1.1-touch/markdown4j-2.2-cj-1.1-touch-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/commonjava/googlecode/markdown4j/markdown4j/2.2-cj-1.1-touch/markdown4j-2.2-cj-1.1-touch-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

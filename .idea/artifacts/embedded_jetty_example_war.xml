@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="embedded-jetty-example:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="embedded-jetty-example-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="embedded-jetty-example:war exploded" />
+    </root>
+  </artifact>
+</component>
